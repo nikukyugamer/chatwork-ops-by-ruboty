@@ -30,8 +30,10 @@ $ foreman start
     - `original_handlers/main_store_last_updated_at.rb`
     - `original_handlers/tabetai.rb`
 
-# limitation
+# Limitation
 - per one execution, you can operate a bot in ONE room
+    - if you wanna operate multi bots, exec multi Ruboty
+        - CAUTION: be careful of rate limits...
 
 # LICENSE
 [MIT LICENSE](LICENSE)
