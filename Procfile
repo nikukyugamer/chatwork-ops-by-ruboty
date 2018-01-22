@@ -1,1 +1,1 @@
-ruboty: bundle exec ruboty --load my_ruboty.rb
+ruboty: bundle exec ruboty --load load_chatwork_ruboty.rb --dotenv
